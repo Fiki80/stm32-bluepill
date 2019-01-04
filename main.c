@@ -16,6 +16,7 @@
 
 #include "ch.h"
 #include "hal.h"
+#include "ssd1306.h"
 
 int main(void) {
 
